@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Project-Board/static/css/main.6a2c52bc.chunk.css",
+    "main.js": "/Project-Board/static/js/main.dc0d9a91.chunk.js",
+    "main.js.map": "/Project-Board/static/js/main.dc0d9a91.chunk.js.map",
+    "runtime-main.js": "/Project-Board/static/js/runtime-main.df2b495d.js",
+    "runtime-main.js.map": "/Project-Board/static/js/runtime-main.df2b495d.js.map",
+    "static/js/2.b62221b6.chunk.js": "/Project-Board/static/js/2.b62221b6.chunk.js",
+    "static/js/2.b62221b6.chunk.js.map": "/Project-Board/static/js/2.b62221b6.chunk.js.map",
+    "static/js/3.20c00497.chunk.js": "/Project-Board/static/js/3.20c00497.chunk.js",
+    "static/js/3.20c00497.chunk.js.map": "/Project-Board/static/js/3.20c00497.chunk.js.map",
+    "index.html": "/Project-Board/index.html",
+    "static/css/main.6a2c52bc.chunk.css.map": "/Project-Board/static/css/main.6a2c52bc.chunk.css.map",
+    "static/js/2.b62221b6.chunk.js.LICENSE.txt": "/Project-Board/static/js/2.b62221b6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Project-Board/static/media/pattern-background-desktop.5a0ab689.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df2b495d.js",
+    "static/js/2.b62221b6.chunk.js",
+    "static/css/main.6a2c52bc.chunk.css",
+    "static/js/main.dc0d9a91.chunk.js"
+  ]
+}
