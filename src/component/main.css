@@ -1,0 +1,29 @@
+.main-box{
+    display : grid;
+    grid-template-columns: 30% 30% 30%;
+    justify-content: space-between;
+    margin-top: 50px;
+    
+}
+
+p{
+    font-weight: 800;
+    border: 1px solid lightgray;
+    background-color: honeydew;
+    padding: 1%;
+    margin-top: 0;
+    filter: none;
+}
+p sup{
+    
+    color: red;
+}
+
+.box{
+    height: 300px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+    overflow: auto;
+    box-shadow: 5px 10px 18px #888888;
+    background-color:  #ffffe6;
+}

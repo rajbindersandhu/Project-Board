@@ -1,0 +1,50 @@
+.text {
+    font-family: cursive;
+    padding: 2% ;
+}
+b{
+    font-weight: 900;
+    font-size: x-large;
+}
+
+.btn-box{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+.edit-btn{
+    cursor:pointer;
+    padding: 1%;
+    width:70px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 800;
+    background-color: #ffff00;
+    border:none;
+}
+
+.bck-btn{
+    cursor:pointer;
+    padding: 1%;
+    width:70px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 800;
+    background-color: #00bfff;
+    border:none;
+}
+
+.dlt-btn{
+    cursor:pointer;
+    padding: 1%;
+    width:70px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-weight: 800;
+    background-color: #ff4000;
+    color : white;
+    border:none;
+}
+#title{
+    padding-left: 1%;
+}
